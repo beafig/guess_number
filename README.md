@@ -1,4 +1,4 @@
-# Ejercicio de evaluación intermedia modulo 2
+# Ejercicio de evaluación intermedia modulo 2 (JAVASCRIPT)
 
 ¡Hola 👋🏽! Este es mi ejercicio para superar la evaluación intermedia del segundo modulo del bootcamp de programación en Adalab, para realizar este ejercicio hemos tenido un tiempo de 2 horas.
 
