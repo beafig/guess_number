@@ -21,4 +21,4 @@ El objetivo es crear una web en la que se genera un número aleatorio entre 1 y 
 
 Espero que te haya gustado mi trabajo, si quieres saber un poco más o tienes cualquier consejo para mejorar mi código no dudes en ponerte en contacto conmigo. [LinkedIn](https://www.linkedin.com/in/bea-figueroa/)
 
-Gracias por visitarme.
+Gracias por visitarme
